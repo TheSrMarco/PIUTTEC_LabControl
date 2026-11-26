@@ -1,0 +1,7 @@
+feat: integrar QR, préstamos, evidencia, sincronización y trazabilidad
+
+- Añadir consulta por QR y baja lógica en inventario.
+- Implementar préstamos y devoluciones por folio y equipo.
+- Capturar evidencia fotográfica, GPS y destino en entregas.
+- Habilitar sincronización local entre celular y SQLite de tableta.
+- Agregar historial de trazabilidad, incidencias, prórrogas y respaldos.
